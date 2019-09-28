@@ -1,10 +1,10 @@
 const reverseString = (string = '') => (
 
     // #1
-    string.split('').reverse().join('')
+    // string.split('').reverse().join('')
 
     // #2
-    // string.split('').reduce((reversed, char) => (char + reversed), '')
+    string.split('').reduce((reversed, char) => (char + reversed), '')
 
 );
 
