@@ -9,5 +9,4 @@ const reverseString = (string = '') => (
 );
 
 // https://github.com/chenshenhai/node-modules-demo
-// export default reverseString;
 module.exports = reverseString;
