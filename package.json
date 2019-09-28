@@ -1,0 +1,23 @@
+{
+  "name": "algorithms_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerryLee7788/algorithms_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TerryLee7788/algorithms_js/issues"
+  },
+  "homepage": "https://github.com/TerryLee7788/algorithms_js#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
