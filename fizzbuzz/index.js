@@ -10,7 +10,7 @@ function fizzBuzz (number) {
     else if (number % 5 === 0) {
 
         type = 'buzz';
-        
+
     }
     else if (number % 3 === 0) {
 
